@@ -11,6 +11,8 @@ module.exports = {
     ".eslintrc.cjs", 
     ".prettierrc", 
     ".prettierignore",
+    "postcss.config.cjs",
+    "tailwind.config.cjs"
   ],
   parser: "@typescript-eslint/parser",
   plugins: ["react-refresh", "@typescript-eslint"],
